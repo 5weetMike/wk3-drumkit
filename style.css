@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: mediumpurple;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    background-color:mediumpurple;
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.container1{
+display: flex;
+background-color: aqua;
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-size-adjust: 16px;
+    margin:4px 2px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+    flex-wrap: wrap;
+}
+
+
