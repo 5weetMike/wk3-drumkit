@@ -1,3 +1,5 @@
+//script giving all the keypresses and mouse clicks on these buttons a sound function.
+
 
 document.getElementById(`boomSound`).addEventListener(`click`, (event) => {
     let audio = document.getElementById(`boom`);

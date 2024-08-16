@@ -1,9 +1,11 @@
+/* necessary styling needed to keep a clean appearance on the webpage */
+
 body{
     display: flex;
     justify-content: center;
     background-color: mediumpurple;
 }
-h1{
+.heading{
     display: flex;
     justify-content: center;
     background-color:mediumpurple;
